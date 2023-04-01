@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with: **Unity development**
 
-- 👨‍💻 My current side projects are: [Full stack quiz applications to help me continue to learn.](Full stack quiz applications to help me continue to learn.)
+- 👨‍💻 My current side projects are: **Full stack quiz applications to help me continue to learn**
 
-- 📝Let's discuss [Object Oriented Programming](Object Oriented Programming)
+- 📝Let's discuss **Object Oriented Programming**
 
 - 💬 Ask me about **My experiences at Tech Elevator!**
 
