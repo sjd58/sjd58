@@ -11,9 +11,9 @@
 
 - 👨‍💻 My current side projects are: **Full stack quiz applications to help me continue to learn**
 
-- 📝Let's discuss **Object Oriented Programming**
+- 📝Let's discuss: **Object Oriented Programming**
 
-- 💬 Ask me about **My experiences at Tech Elevator!**
+- 💬 Ask me about: **My experiences at Tech Elevator!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
