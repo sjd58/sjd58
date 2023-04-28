@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam! Nice to meet you.</h1>
 <h3 align="center">Software Developer | Teacher and Learner | C#/.NET Enthusiast</h3>
 
-- 🔭 I’m currently working on: **My Tech Elevator Capstone Project!**
+- 🔭 I’m currently working on: **Full Stack Quiz Applications with Vue.js, C#/.NET, and Relational Databases**
 
 - 🌱 I’m currently learning: **Vue.js**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with: **Unity development**
 
-- 👨‍💻 My current side projects are: **Full stack quiz applications to help me continue to learn**
+- 👨‍💻 My current side projects are: **Updating my portfolio website, learning Python basics**
 
 - 📝Let's discuss: **Object Oriented Programming**
 
